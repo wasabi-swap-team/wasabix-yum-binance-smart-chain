@@ -1,9 +1,9 @@
 {
-  "name": "alchemix",
+  "name": "wasabix-yum-binance-smart-chain",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:alchemix-finance/alchemix-protocol.git",
-  "author": "Alchemix Team",
+  "repository": "https://github.com/wasabi-swap-team/wasabix-yum-binance-smart-chain",
+  "author": "Wasabix Team",
   "license": "GPL-3.0",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.0",
